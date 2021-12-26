@@ -1,3 +1,7 @@
+* Since fork
+
+  - Compatibility with Ruby 3.0
+
 * Changes in version 72c1a4b3dfffaebe2dc25fcea09f9481305fc7e3
   - bumped version to 2.0.2
   - moved the setting of the default order for comments from inside the plugin
